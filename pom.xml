@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>co.sena.jiguales</groupId>
-  <artifactId>inventario-jdbc</artifactId>
+  <artifactId>RAULZUNIGA_AA2_EV01</artifactId>
   <version>1.0.0</version>
   <name>Inventario JDBC</name>
   <description>Módulo CRUD Items con JDBC para SENA (Panadería Jiguales)</description>
